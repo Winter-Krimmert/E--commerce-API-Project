@@ -16,3 +16,5 @@ Orders: Customers can place orders for products. The API facilitates order creat
 Using Postman
 
 Postman is a valuable tool for testing and debugging APIs, including the E-Commerce Management API. Developers can use Postman to send requests to API endpoints, inspect the responses, and verify the functionality of different API operations. By simulating various scenarios and interactions, Postman helps ensure that the API functions as expected and meets the project requirements. Additionally, Postman's collection feature allows developers to organize and share API requests, facilitating collaboration and streamlining the testing process.
+
+https://github.com/Winter-Krimmert/E--commerce-API-Project
